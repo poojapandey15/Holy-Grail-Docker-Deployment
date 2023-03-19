@@ -1,4 +1,4 @@
-# holy-grail-using-redis
+# holy-grail
 A full stack holy grail using Redis used as a database from Node.js.
 
 # prerequisite
