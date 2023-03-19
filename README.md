@@ -10,5 +10,6 @@ A full stack holy grail using Redis used as a database from Node.js.
 
 
 # Reference 
-https://redis.io/commands/\n
+https://redis.io/commands/
+
 https://www.sitepoint.com/using-redis-node-js/
